@@ -1,2 +1,5 @@
 /opencv310
 /opencv311
+
+__pycache__/
+.vscode/
