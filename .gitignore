@@ -4,5 +4,12 @@
 __pycache__/
 .vscode/
 
+
+/icon
+/img
 /face
 /haarcascades
+/face_emotion
+/style_change
+/video
+/virtual_background
